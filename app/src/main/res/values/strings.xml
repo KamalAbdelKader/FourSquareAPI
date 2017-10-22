@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Foursquare task</string>
+
+    <string name="dialog_search_hint">Enter the desired location</string>
+    <string name="search_dialog_title">Find popular Venues</string>
+
+    <string name="dialog_option_cancel">Cancel</string>
+    <string name="dialog_option_confirm">Search</string>
+    <string name="venue_row_rating">Rating: </string>
+
+    <string name="venue_search_loading">Retrieving Venues</string>
+    <string name="venue_search_loading_error">Error retreaving venues, please try again.</string>
+    <string name="venue_search_empty_error">You must enter a search term.</string>
+    <string name="venue_search_invalid_error">Could not find a place that matches the one entered, please try again.</string>
+
+    <string name="no_inernet_connection">No internet connection, please try again later.</string>
+</resources>
