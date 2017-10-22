@@ -1,4 +1,4 @@
-package com.smartc.mohamed.coffeetask;
+package com.smartc.kamal.foursquareTask;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.smartc.mohamed.coffeetask", appContext.getPackageName());
+        assertEquals("com.smartc.kamal.foursquareTask", appContext.getPackageName());
     }
 }
